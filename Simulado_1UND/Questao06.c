@@ -1,0 +1,1 @@
+a) O final vai dar erro porque a variável soma está dentro do escopo do laço for e não fora, como o printf.
